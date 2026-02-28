@@ -59,3 +59,8 @@ Impacto de outliers
 ## 🛠️ Tecnologías
 
 Python · pandas · numpy · matplotlib · seaborn · scipy.stats · Jupyter Notebook
+
+## ✍️ Autor
+
+Lorena Urquijo N. 
+Analista de Datos — Proyecto Test A/B Tienda Online 📅 Año: 2025
